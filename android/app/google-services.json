@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "336268017901",
+    "project_id": "smartinterestx-5a60b",
+    "storage_bucket": "smartinterestx-5a60b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336268017901:android:54dbcca652cf1696544ce4",
+        "android_client_info": {
+          "package_name": "com.example.smart_interest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuqQYk5jXJvBOp_E5AI3avfJLYQjCorkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
